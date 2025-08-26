@@ -88,8 +88,9 @@ map_gene_GSS --gene SLC32A1
 
 
 ## 5. Citation
-Song, L., Chen, W., Hou, J., Guo, M. & Yang, J. [Spatially resolved mapping of cells associated with human complex traits](https://www.nature.com/articles/s41586-025-08757-x). Nature (2025).
-Chen, Ao, Sha Liao, Mengnan Cheng, Kailong Ma, Liang Wu, Yiwei Lai, Xiaojie Qiu et al. [Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays](https://www.cell.com/cell/fulltext/S0092-86742200399-3). Cell 185, no. 10 (2022): 1777-1792.
+- Song, L., Chen, W., Hou, J., Guo, M. & Yang, J. [Spatially resolved mapping of cells associated with human complex traits](https://www.nature.com/articles/s41586-025-08757-x). Nature (2025).
+
+- Chen, Ao, Sha Liao, Mengnan Cheng, Kailong Ma, Liang Wu, Yiwei Lai, Xiaojie Qiu et al. [Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays](https://www.cell.com/cell/fulltext/S0092-86742200399-3). Cell  (2022).
 
 Please cite the paper and give us a STAR if you find mapGSS useful for your research.
 
