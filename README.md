@@ -40,10 +40,10 @@ mapGSS
 
 
 ## 2. Key Features
-
-- __Spatially-aware High-Resolution Trait Mapping__
-- __Spatial Region Identification__
-- __Putative Causal Genes Identification__
+	
+- __Integrates GSS values from gsMap with region or cell-type annotations.__
+- __Calculates the specificity ratio of gene expression in each region or cell type.__
+- __Visualizes spatial specificity patterns across tissues or cell populations.__
 
 ![Model Architecture](./data/Genes/SLC32A1/map_gene_SLC32A1.png)
 
