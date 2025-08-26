@@ -45,7 +45,7 @@ mapGSS
 - __Spatial Region Identification__
 - __Putative Causal Genes Identification__
 
-![Model Architecture](./data/Genes/SLC32A1/map_gene_SLC32A1.pdf)
+![Model Architecture](./data/Genes/SLC32A1/map_gene_SLC32A1.png)
 
 ## 3. Installation
 
