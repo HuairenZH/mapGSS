@@ -88,7 +88,7 @@ map_gene_GSS --gene SLC32A1
 
 
 ## 5. Citation
-
+Song, L., Chen, W., Hou, J., Guo, M. & Yang, J. [Spatially resolved mapping of cells associated with human complex traits](https://www.nature.com/articles/s41586-025-08757-x). Nature (2025).
 Please cite the paper and give us a STAR if you find mapGSS useful for your research.
 
 # mapGSS
