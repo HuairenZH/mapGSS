@@ -81,7 +81,7 @@ map_gene_GSS --help
 ## 4. Usage
 
 ```bash
-map_gene_GSS --gene SLC32A1
+extract_gene_GSS --gene SLC32A1
 map_gene_GSS --gene SLC32A1
 ```
 
