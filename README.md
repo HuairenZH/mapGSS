@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-`mapGSS` is a computational tool designed to quantify the spatial specificity of gene expression in spatial transcriptomics datasets. It integrates gene spatial specificity scores (GSS) computed by gsMap with tissue or cell-type annotations, enabling systematic analysis and visualization of gene-specific spatial enrichment patterns across regions or cell types.
+`mapGSS` is a computational tool designed to quantify the spatial specificity of gene expression in spatial transcriptomics datasets. It integrates gene spatial specificity scores (GSS) computed by (gsMap)[https://github.com/JianYang-Lab/gsMap] with tissue or cell-type annotations, enabling systematic analysis and visualization of gene-specific spatial enrichment patterns across regions or cell types.
 
 ```
 mapGSS
