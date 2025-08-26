@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mapGSS"
+version = "0.1.0"
+description = "Extract per-gene GSS and maping to ST datasets"
+requires-python = ">=3.8"
+dependencies = [
+  "pandas>=2.0",
+  "pyarrow>=12"  # 让 pandas 能 read_feather
+]
+
+[project.scripts]
+extract_gene_GSS = "extract_gene_gss.cli:main"
+map_gene_GSS = "extract_gene_gss.map_cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

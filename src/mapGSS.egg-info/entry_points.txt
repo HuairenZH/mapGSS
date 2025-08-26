@@ -1,0 +1,3 @@
+[console_scripts]
+extract_gene_GSS = extract_gene_gss.cli:main
+map_gene_GSS = extract_gene_gss.map_cli:main
